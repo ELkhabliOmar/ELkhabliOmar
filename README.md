@@ -19,7 +19,7 @@
 
 <p  </p>
 
-- 🔭 ’m currently working on  [Design and development of a Web/Mobile Application for Electric Mobility (Electric Vehicles EV)]([[https://github.com/saadfrh/CODSOFT](https://github.com/ELkhabliOmar/Projet_fullStack_React_NodeJS)](https://github.com/ELkhabliOmar/Projet_fullStack_React_NodeJS))
+- 🔭 ’m currently working on  [Design and development of a Web/Mobile Application for Electric Mobility (Electric Vehicles EV) in green energy park.]([[https://github.com/saadfrh/CODSOFT](https://github.com/ELkhabliOmar/Projet_fullStack_React_NodeJS)](https://github.com/ELkhabliOmar/Projet_fullStack_React_NodeJS))
 
 - 🌱I’m currently learning **mobile/web full stack development**
 
@@ -48,6 +48,7 @@
 I am a full stack web and mobile developer with a year of experience in mobile/web development.
 
 As a full stack developer with four years of experience, I have honed my skills in designing and building client-side and server-side applications that power web and mobile platforms. My mastery of Java has allowed me to develop robust and scalable systems that effectively manage large volumes of data and traffic.
+
 
 Throughout my career, I have gained expertise in database management, RESTful API design and cloud technologies such as AWS and Azure. My deep understanding of software architecture principles allowed me to create well structured and maintainable code bases.
 
