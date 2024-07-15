@@ -27,14 +27,14 @@
 
 - 🤝 I’m looking for help with **Green Energy Park**
 
-- 👨‍💻 All of my links are available at 
+- 👨‍💻 All of my links are available at [my links](https://elkhabliomar.github.io/myLinks/) .
 
 
 - 💬 Ask me about **web development, mobile development, React, Flutter, Node.js,Java Kotlin.**
 
 - 📫 How to reach me **elkhabliomar@gmail.com**
 
-- 📄 Know about my experiences []()
+- 📄 Know about my experiences .
 
 - ⚡ Fun fact **I love CyberSec 🔐**
 
